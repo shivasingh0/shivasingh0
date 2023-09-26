@@ -5,7 +5,9 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivasingh0&label=Profile%20views&color=0e75b6&style=flat" alt="shivasingh0" /> </p>
+
 # 💫 About Me:
+
 - 🔭 I’m currently working on **e-Commerce Project**
 
 - 🌱 I’m currently learning **React JS, Node JS**
