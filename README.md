@@ -1,7 +1,7 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
 <h1 align="center">Hi 👋, I'm Shivmangal Singh Rajawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-![Image Alt Text](https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format)
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
 # 💫 About Me:
 - 🔭 I’m currently working on **e-Commerce Project**
@@ -22,9 +22,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shivasingh0&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivasingh0&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shivasingh0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -33,5 +30,11 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shivasingh0&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivasingh0&show_icons=true&locale=en&layout=compact" alt="shivasingh0" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivasingh0&show_icons=true&locale=en" alt="shivasingh0" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivasingh0&" alt="shivasingh0" /></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
