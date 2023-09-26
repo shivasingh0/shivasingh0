@@ -1,7 +1,7 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
 <h1 align="center">Hi 👋, I'm Shivmangal Singh Rajawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-![Coding](https://cdn.dribbble.com/users/116207...)
+![Image Alt Text](https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format)
 
 # 💫 About Me:
 - 🔭 I’m currently working on **e-Commerce Project**
